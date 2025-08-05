@@ -1,12 +1,12 @@
-# 🚀 HTML Static App Deployment using Jenkins & Nginx on Remote Ubuntu Server
+# 🚀 HTML Static App Deployment using Jenkins Deploy to Another Server Nginx on Remote Ubuntu Server
 
 This guide will walk you through deploying an HTML static webpage from **Jenkins** to another **Ubuntu server** using **SSH & Nginx**.
 
 ---
 
 ## 📸 Project Screenshots
-- ![Step 1](Screenshot/1.jpg)
-- ![Step 2](Screenshot/2.jpg)
+- ![Step 1](/aa.jpg)
+
 
 ---
 
@@ -67,7 +67,7 @@ This guide will walk you through deploying an HTML static webpage from **Jenkins
      ```
    - Branch:  
      ```
-     */master
+     */main
      ```
 
 ---
